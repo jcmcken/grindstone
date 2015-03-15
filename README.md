@@ -1,5 +1,3 @@
-from grindstone import queue
+# grindstone
 
-@queue.task
-def do_something():
-    pass
+A unified, distributed task execution platform
