@@ -1,0 +1,6 @@
+.coverage
+*.pyc
+*.sw*
+*.egg-info
+celerybeat-schedule
+venv
